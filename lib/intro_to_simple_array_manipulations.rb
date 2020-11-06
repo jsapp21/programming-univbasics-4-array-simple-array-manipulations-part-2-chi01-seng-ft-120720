@@ -6,4 +6,6 @@ def using_insert(array, element)
   array.insert(4, "Python")
 end 
 
-def
+def using_uniq()
+  
+end 
